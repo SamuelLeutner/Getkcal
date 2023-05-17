@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto 👨‍💻
 
-Getkcal é um projeto de uma calculadora simples para calcular a sua taxa metabolica basal e retornando metricas para caso você queira manter o seu peso, perder ou ate ganhar massa!
+Getkcal é um projeto de uma calculadora simples de taxa metabolica basal e retornando metricas para caso você queira manter o seu peso, perder ou ate ganhar massa!
 
 ## Preview 💻
 <p align="center">
