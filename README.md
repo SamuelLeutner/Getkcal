@@ -1,4 +1,4 @@
-<h1 align="center"> Getkcal </h1>🔥
+<h1 align="center"> Getkcal 🔥</h1>
 
 ## Tecnologias 🚀
 
@@ -23,5 +23,6 @@ Getkcal é um projeto de uma calculadora simples para calcular a sua taxa metabo
 Esse projeto está sob a licença MIT.
 
 ---
-
+<p align="center">
 Feito por <a href="https://github.com/SamuelLeutner" target="_blank"> Samuel Leutner</a> ©
+</p>
