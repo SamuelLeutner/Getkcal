@@ -15,7 +15,7 @@ Getkcal é um projeto de uma calculadora simples de taxa metabolica basal e reto
 
 ## Preview 💻
 <p align="center">
- <img src="https://github.com/maateusilva/getkcal/assets/103613009/a2ab8937-6a38-4514-90f9-f3a789a6983e" />
+ <img src="https://github.com/SamuelLeutner/Getkcal/assets/103613009/9d7d30b5-445a-47fd-afb9-6bb2282e00f9" />
 </p>
 
 ## :memo: Licença
